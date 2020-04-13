@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HOW TO DOWNLOAD STOCK DATA FROM YAHOO
+title: How to download stock data from Yahoo Finance
 ---
 
 https://colab.research.google.com/drive/1lZB2zNOA1aArDMys2Hod6-JkSeK89IaD
