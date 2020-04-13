@@ -1,5 +1,6 @@
 ---
-layout: "post"
+layout: post
+title: First Blog!
 ---
 
 
