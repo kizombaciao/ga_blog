@@ -1,0 +1,9 @@
+---
+layout: post
+title: “How to download stock data from Yahoo Finance”
+date:   2020-04-13 16:05:41 +0200
+categories: jekyll update
+---
+
+https://colab.research.google.com/drive/1lZB2zNOA1aArDMys2Hod6-JkSeK89IaD
+
