@@ -1,0 +1,9 @@
+---
+layout: post
+title: “Using pandas_datareader for stock prices”
+date:   2020-04-14 16:05:41 +0200
+categories: jekyll update
+---
+
+https://colab.research.google.com/drive/1mIjxj6WtQ4OhN-_17Z5XhL2ZVl79yGf9#scrollTo=DxVwHV_dVIHV
+
